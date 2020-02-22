@@ -1,0 +1,60 @@
+city,City_Name,continent,Continent_Name
+tokyo,Tokyo,east_asia,East Asia
+singapore,Singapore,east_asia,East Asia
+taipei,Taipei,east_asia,East Asia
+yamaguchi,Yamaguchi,east_asia,East Asia
+sendai,Sendai,east_asia,East Asia
+hong_kong,Hong Kong,east_asia,East Asia
+hanoi,Hanoi,east_asia,East Asia
+seoul,Seoul,east_asia,East Asia
+kuala_lumpur,Kuala Lumpur,east_asia,East Asia
+shanghai,Shanghai,east_asia,East Asia
+porto,Porto,europe,Europe
+berlin,Berlin,europe,Europe
+lands_end,Lands End,europe,Europe
+birmingham,Birmingham,europe,Europe
+newcastle,Newcastle,europe,Europe
+bury,Bury,europe,Europe
+eden,Eden,europe,Europe
+edinborough,Edinborough,europe,Europe
+jaywick,Jaywick,europe,Europe
+eastbourne,Eastbourne,europe,Europe
+bradford,Bradford,europe,Europe
+bristol,Bristol,europe,Europe
+belfast,Belfast,europe,Europe
+swansea,Swansea,europe,Europe
+islington,Islington,europe,Europe
+kensington,Kensington,europe,Europe
+cairngorm,Cairngorm,europe,Europe
+london,London,europe,Europe
+kyiv,Kyiv,europe,Europe
+lisbon,Lisbon,europe,Europe
+oslo,Oslo,europe,Europe
+stockholm,Stockholm,europe,Europe
+paris,Paris,europe,Europe
+vienna,Vienna,europe,Europe
+sofia,Sofia,europe,Europe
+naples,Naples,europe,Europe
+marseille,Marseille,europe,Europe
+zurich,Zurich,europe,Europe
+doha,Doha,middle_east,Middle East
+new_york_city,New York,north_america,North America
+fairbanks,Fairbanks,north_america,North America
+sacramento,Sacramento,north_america,North America
+denver,Denver,north_america,North America
+san_francisco,San Francisco,north_america,North America
+minneapolis,Minneapolis,north_america,North America
+baltimore,Baltimore,north_america,North America
+auckland,Auckland,oceania,Oceania
+hamilton,Hamilton,oceania,Oceania
+brisbane,Brisbane,oceania,Oceania
+rio_de_janeiro,Rio de janeiro,south_america,South America
+santiago,Santiago,south_america,South America
+bogota,Bogota,south_america,South America
+sao_paulo,Sao Paulo,south_america,South America
+offa,Offa,sub_saharan_africa,Sub-Saharan Africa
+ilorin,Ilorin,sub_saharan_africa,Sub-Saharan Africa
+fukuoka,Fukuoka,east_asia,East Asia
+tsuruoka,Tsuruoka,east_asia,East Asia
+antarctica,Antarctica,Antarctica,Antarctica
+st_louis,St Louis,north_america,North America
