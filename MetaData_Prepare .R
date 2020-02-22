@@ -58,5 +58,5 @@ Sample_Info$city = gsub("\\s","_",Sample_Info$city)
 Sample_Info = Sample_Info[!duplicated(Sample_Info$uuid),]
 city_name = read.csv("data/city_name.csv",stringsAsFactors = F)
 Sample_Info = merge(Sample_Info, city_name[,c("city","City_Name","Continent_Name")], by.x= "city",by.y = "city")
-save(Sample_Info, file="Sample_Info.RData")
+save(Sample_Info, file="data/Sample_Info.RData")
 
