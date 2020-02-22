@@ -6,7 +6,7 @@ library(ggsci)
 library(gridExtra)
 library(ggpubr )
 library(cowplot)
-load("./data/MetaSUB_Sample_Info.RData")
+load("./data/Sample_Info.RData")
 Sample_Info = Sample_Info[!duplicated(Sample_Info$uuid),c(1,7,11,20,23:27,29,31)]
 df =  ddply(Sample_Info, .variables = c("city","city_latitude","city_longitude"),nrow)
 df = df[!is.na(df$city_latitude),]
