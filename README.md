@@ -20,5 +20,5 @@ download from your browser: [download link](www.unimd.org/files/MetaSUB_MQ_MAGs.
 
 # Metadata
 Metadata be obtained from the MetaSUB-metadata github repository (https://github.com/MetaSUB/MetaSUB-metadata).
-# The KEGG prevalence data
-[download link](www.unimd.org/files/KEGG_Prevalence.csv.tar.gz)
+# OTU annotation, KEGG prevalence, plasmid prediction result etc. 
+[download link](www.unimd.org/files/SupplementaryData.zip)
