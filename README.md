@@ -1,6 +1,6 @@
 # Annotating unknown microbial species in a global microbiome cohort unveils novel functional diversity and local environment association
 # Urban-MAGs
-Urban MAGs were generated using 3,741 metagenome samples obtained from 58 cities worldwide, Metagenomes were assembled with  metaSPAdes and MAGs were constructed by binning contigs per-sample using MetaBAT2.
+Urban MAGs were generated using 4,728 metagenome samples obtained from 60 cities worldwide, Metagenomes were assembled with  metaSPAdes and MAGs were constructed by binning contigs per-sample using MetaBAT2.
 
 <b>High quality MAGs (N=1,448)</b>   
 download from your browser: [download link](www.unimd.org/files/MetaSUB_HQ_MAGs.tar.gz)  
