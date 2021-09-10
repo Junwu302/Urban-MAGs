@@ -19,7 +19,7 @@ download from your browser: [download link](www.unimd.org/files/MetaSUB_HQ_MAGs.
 	
 download from your browser: [download link](www.unimd.org/files/MetaSUB_MQ_MAGs.tar.gz)  
 
-# Metadata
-Metadata be obtained from the MetaSUB-metadata github repository (https://github.com/MetaSUB/MetaSUB-metadata).
+# Metadata and raw sequence data
+Metadata and the sequencing reads can be founded in the publicly available repository on Pangea (https://pangea.gimmebio.com/)
 # OTU annotation, KEGG prevalence, plasmid prediction result etc. 
 [download link](www.unimd.org/files/SupplementaryData.zip)
